@@ -9,7 +9,7 @@ User Collection:
   "last_login": Date,
   "preferences": {
     "favorite_genres": [String],
-    "favorite_authors": [String]
+    "favorite_series": [String]
   },
   "reading_lists": {
     "currently_reading": [ObjectId], // References to Manga documents
